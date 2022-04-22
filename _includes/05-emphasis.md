@@ -1,7 +1,7 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-sono solare 🌞
+**sono solare 🌞
 mi piace la pallavolo 🏐
-amo i dolci 🍬
+_amo i dolci 🍬
 *This text will be italic*
 _This will also be italic_
 
